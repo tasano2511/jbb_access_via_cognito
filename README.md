@@ -1,5 +1,5 @@
 # jbb_access_via_cognito
-This project is to show how the AWS Cognito is used to authenticate users and provided needed authorization to execute some functionalities on the web site
+This project is to show how the AWS Cognito is used to authenticate users and provide needed authorization to execute some functionalities on the web site
 
 ## Table of Contents
 - [web access via AWS Cognito](#indexjs-lambda-function)
